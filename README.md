@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center"
+  
+![](https://komarev.com/ghpvc/?username=mymsuns&color=C9A1C6&label=　✦　&abbreviated=true)
 
-<!--
-**triplefaced/triplefaced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  no.1⠀bourbon⠀lover⠀♡
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h4 align="center">
+  <img src="https://github.com/user-attachments/assets/ece844f1-a454-49ed-9496-1e24e02e2b5b"width="400" length="400"/>
+</p>
+<p align="center"> int ‎╱ ‎c*h⠀freely⠀୨୧</p>
+<p align="center"> w2i⠀⠀𓏼⠀⠀mostly⠀afk </p>

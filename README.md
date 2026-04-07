@@ -1,6 +1,6 @@
 <p align="center"
   
-![](https://komarev.com/ghpvc/?username=mymsuns&color=C9A1C6&label=　✦　&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=triplefaced&color=C9A1C6&label=　✦　&abbreviated=true)
 
 <p align="center">
   no.1⠀bourbon⠀lover⠀♡̲
